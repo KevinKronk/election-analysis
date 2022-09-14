@@ -21,13 +21,13 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 How many votes were cast in this congressional election? 
   - .
 
-What is the breakdown of number of votes and percentage of total votes for each county?
+What is the breakdown of number of votes and percentage of total votes for each county? 
   - .
 
-Which county had the largest number of votes?
+Which county had the largest number of votes? 
   - .
 
-What is the breakdown of number of votes and percentage of total votes for each candidate?
+What is the breakdown of number of votes and percentage of total votes for each candidate? 
   -.
   
 Which candidate won the election, what was their vote count, and the percentage of total votes? 
