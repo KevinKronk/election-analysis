@@ -3,15 +3,7 @@
 ## Overview of Election Audit
 
 ### Purpose
-
-### Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+The Colorado Board of Elections need Seth and Tom to submit an election audit of the most recent local congressional election. They initially needed info on the total number of votes, the votes per candidate, the percentage of the total votes for each candidate, and who the winning candidate was. The election commission then requested some additional data on the counties participating in the election. They need the voter turnout in each county, the percentage of total votes for each county, and the county with the highest voter turnout. 
 
 ### Resources
 - Data Source: election_results.csv
@@ -34,4 +26,3 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Election Audit Summary
 This script can be used for any election in which the winner is chosen by plurality (getting more votes than everyone else) rather than majority (winning more than half the votes). If we wanted to use this script in a majority election, like for the Presidental election, we would first need to change all the county variables, lists, and dictionaries to the appropriate name, in this case state. So assuming the data contained the Ballot ID, State, and Candidate, we would have state_options, state_votes, largest_state, largest_state_votes, state_vote, state_percentage, and state_results. This would also include changes to the command line print statements and the write statements to our election_results.txt file. The part of the code in which we determine which state had the largest voter turnout could remain the same, as we only need the one that has more than any other. For the part of the code where we determine which candidate won, we would loop through all the candidates and if one has greater than 50% of the vote (or technically greater than or equal to 270 electoral college votes), then they are saved as the winning candidate. This would work because only one candidate can have more than half the votes. The only other change that might be useful would be to sort the states and candidates in alphabetical order, so they're easier to read. 
-
