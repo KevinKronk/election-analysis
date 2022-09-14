@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 
 ### Purpose
-The Colorado Board of Elections need Seth and Tom to submit an election audit of the most recent local congressional election. They initially needed info on the total number of votes, the votes per candidate, the percentage of the total votes for each candidate, and who the winning candidate was. The election commission then requested some additional data on the counties participating in the election. They need the voter turnout in each county, the percentage of total votes for each county, and the county with the highest voter turnout. 
+The Colorado Board of Elections need Seth and Tom to submit an election audit on the most recent local congressional election. They initially needed info on the total number of votes, the votes per candidate, the percentage of the total votes for each candidate, and who the winning candidate was. The election commission then requested some additional data on the counties participating in the election. They need the voter turnout in each county, the percentage of total votes for each county, and the county with the highest voter turnout. 
 
 ### Resources
 - Data Source: election_results.csv
