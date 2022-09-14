@@ -28,10 +28,10 @@ Which county had the largest number of votes?
   - .
 
 What is the breakdown of number of votes and percentage of total votes for each candidate? 
-  -.
+  - .
   
 Which candidate won the election, what was their vote count, and the percentage of total votes? 
-  -. 
+  - . 
   
 ![Election Results](Resources/Election_Results_Command_Line.png)
 
