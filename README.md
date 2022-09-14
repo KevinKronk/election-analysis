@@ -30,3 +30,4 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Challenge Summary 
+![Election Results](Resources/Election_Results_Command_Line.png)
