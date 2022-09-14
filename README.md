@@ -18,20 +18,11 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.7.6, Visual Studio Code. 1.71.0
 
 ## Election Audit Results 
-How many votes were cast in this congressional election? 
-  - .
-
-What is the breakdown of number of votes and percentage of total votes for each county? 
-  - .
-
-Which county had the largest number of votes? 
-  - .
-
-What is the breakdown of number of votes and percentage of total votes for each candidate? 
-  - .
-  
-Which candidate won the election, what was their vote count, and the percentage of total votes? 
-  - . 
+  - In total, 369,711 votes were cast in this congressional election.
+  - Jefferson county received 38,855 votes which made up 10.5% of the total votes. Denver county received 306,055 votes for 82.8% of the total. Finally, Arapahoe county received 24,801 votes for 6.7% of the total. 
+  - Therefore, Denver county had the largest number of votes. 
+  - Charles Casper Stockham received 85,213 votes which made up 23.0% of the total votes. Diana DeGette received 272,892 votes for 73.8% of the total. Finally, Raymon Anthony Doane received 11,606 votes for 3.1% of the total. 
+  - Therefore, Diana DeGette won the election with 272,892 votes and 73.8% of the total. 
   
 ![Election Results](Resources/Election_Results_Command_Line.png)
 
